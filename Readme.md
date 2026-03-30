@@ -61,7 +61,7 @@ Follow these steps to execute the audit scripts on your Linux/Ubuntu system:
 1. Clone the Repository
 
 git clone
-cd oss-audit-24BCE10616
+
 
 
 2. Set Executable Permissions

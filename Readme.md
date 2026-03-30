@@ -6,11 +6,11 @@ This repository contains the practical component of the Open Source Software (OS
 
 👤 Student Information
 
-Name: Anshul Kanodia
+Name: Vaidehi Gupta
 
-Registration Number: 24BSA10254
+Registration Number: 24BCE10616
 
-Slot: B22
+Slot: F11
 
 University: VIT Bhopal University
 
@@ -61,7 +61,7 @@ Follow these steps to execute the audit scripts on your Linux/Ubuntu system:
 1. Clone the Repository
 
 git clone
-cd oss-audit-24BSA10254
+cd oss-audit-24BCE10616
 
 
 2. Set Executable Permissions
